@@ -1,4 +1,4 @@
-# Graph 
+# Graf
 
 C++ Graf implementacija. 
 
